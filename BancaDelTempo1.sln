@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BancaDelTempo1", "BancaDelTempo1\BancaDelTempo1.csproj", "{A22A44B8-1FAA-42B0-A594-A907DC724901}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A22A44B8-1FAA-42B0-A594-A907DC724901}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A22A44B8-1FAA-42B0-A594-A907DC724901}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A22A44B8-1FAA-42B0-A594-A907DC724901}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A22A44B8-1FAA-42B0-A594-A907DC724901}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DA41D82D-9BF8-455E-BF65-64FEB7CFFEB0}
+	EndGlobalSection
+EndGlobal
